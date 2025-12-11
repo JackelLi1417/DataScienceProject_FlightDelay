@@ -1,2 +1,3 @@
 This is the group project studying the relationship between flight delays and weather conditions. It is conducted by the student group (group 6) from COMSCI 526 course (2025 Fall term) at Duke University. 
 ## Data Access
+Our research integrates two primary datasets spanning 36 months (January 2022 to December 2024): flight delay records from the U.S. Bureau of Transportation Statistics (BTS) and hourly meteorological observations from NOAA's National Centers for Environmental Information (NCEI). For each flight, the nearest available weather observation (both geographically and temporally) was matched to represent atmospheric conditions at departure time.
